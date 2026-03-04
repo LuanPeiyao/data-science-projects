@@ -10,7 +10,7 @@ Data Science Course Projects
 ## 2. BFI Factor Analysis
 - **Tool**: Python (pandas, scikit-learn)
 - **Result**: Validated Big Five personality theory via factor loading matrix visualization
-- **Link**: [bfi_factor_analysis.py](bfi_factor_analysis.py)
+- **Link**: [bfi_factor_analysis.py](bfi_factor_analysis.ipynb)
 
 ## 3. Xinjiang Tourism Visualization
 - **Tool**: R (leaflet) → **Interactive HTML output**
